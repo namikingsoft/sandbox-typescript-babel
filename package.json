@@ -4,10 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "npm run build:babel",
+    "build": "npm run build:tsc",
     "build:tsc": "tsc -p .",
     "build:babel": "babel src -d lib",
-    "test": "NODE_PATH=src mocha test/**/*.js",
+    "test": "NODE_PATH=src mocha test/**/*.ts",
     "test:watch": "npm run test -- --watch --reporter min",
     "start": "node lib/index.js"
   },
