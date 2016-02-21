@@ -21,7 +21,7 @@
     "eslint": "^2.2.0",
     "espower-babel": "^4.0.1",
     "espower-typescript": "^4.1.0",
-    "espower-typescript-babel": "teppeis/espower-typescript-babel",
+    "espower-typescript-babel": "0.0.2",
     "mocha": "^2.4.5",
     "power-assert": "^1.2.0",
     "typescript": "^1.7.5"
