@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "experimentalDecorators": true,
+    "outDir": "lib"
+  },
+  "files": [
+    "typings/bundle.d.ts",
+    "src/index.ts"
+  ]
+}
