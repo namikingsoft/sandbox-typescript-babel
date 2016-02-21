@@ -1,4 +1,4 @@
-export default class Sandbox {
+export class Sandbox {
 
   hello(name) {
     return `hello ${name}`

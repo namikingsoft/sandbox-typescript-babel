@@ -1,5 +1,5 @@
 import 'babel-polyfill'
-import Sandbox from './Sandbox'
+import {Sandbox} from './Sandbox'
 
 const sandbox = new Sandbox
 const greeting = sandbox.hello('world')

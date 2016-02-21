@@ -1,4 +1,4 @@
-import Sandbox from 'Sandbox'
+import {Sandbox} from 'Sandbox'
 const assert = require('power-assert')
 
 describe('Sandbox', function() {
