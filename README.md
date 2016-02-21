@@ -10,8 +10,8 @@ https://travis-ci.org/namikingsoft/sandbox-typescript-babel/builds/110741347
 * espower-typescript + espower-babel :broken_heart:  
 https://travis-ci.org/namikingsoft/sandbox-typescript-babel/builds/110742720
 
-* espower-typescript-babel :broken_heart:  
-https://travis-ci.org/namikingsoft/sandbox-typescript-babel/builds/110749340
+* espower-typescript-babel :green_heart:  
+https://travis-ci.org/namikingsoft/sandbox-typescript-babel/builds/110831726
 
 
 Reference URL
