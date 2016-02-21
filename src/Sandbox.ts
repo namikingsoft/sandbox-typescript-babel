@@ -1,6 +1,6 @@
 export class Sandbox {
 
-  hello(name) {
+  hello(name: string) {
     return `hello ${name}`
   }
 }
